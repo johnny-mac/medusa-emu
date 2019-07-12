@@ -1,0 +1,17 @@
+*.user*
+*~
+*.swp
+*.pyc
+
+/build
+/build-*
+
+*.a
+*.dylib
+*.dll
+*.exe
+*.o
+*.so
+CMakeCache.txt
+CMakeFiles
+version.c
